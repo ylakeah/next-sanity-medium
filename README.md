@@ -4,7 +4,8 @@ This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](
 
 ## Instant Preview
 
-```https://next-sanity-medium-six.vercel.app/
+```bash
+https://next-sanity-medium-six.vercel.app/
 ```
 
 ## How to use
